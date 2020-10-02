@@ -1,7 +1,7 @@
 /*this is c */
 int main(void){
 
-int z = 5 ;
+int z = 10;
  
 int y = z-3 ;
  
